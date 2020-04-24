@@ -1,1 +1,5 @@
+hMM
 https://cubexdllhosting.000webhostapp.com/Hexus.dll
+false
+version
+what
